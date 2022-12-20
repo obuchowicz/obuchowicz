@@ -4,7 +4,7 @@
 ### O mnie
 - Mam na imię Mat - https://mat.pl
 - Interesuje mnie: WebDev, Analiza, Szkolenia, Microsoft Excel, SEO, SEM, GMB, Branding oraz nowe technologie
-- Lubię :heart: :womens: :dog: :horse: :sheep: :full_moon:
+- :heart: :womens: :dog: :horse: :sheep: :full_moon:
 - :email: Informacje kontaktowe: https://obuchowicz.pl
 
 #### Profesjonalne Doradztwo i Szkolenia Excel
