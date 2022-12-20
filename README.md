@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Mateusz Obuchowicz but friends call me Mat - https://mat.pl
-- :bulb: I’m interested in WebDev, Analytics, SEO, SEM, GMB, Branding, new Tech and Tolls and Security
-- I :heart: :womens: :dog: :horse: :sheep: :full_moon:
-- :email: You can contact me via https://obuchowicz.pl - Konsultant Biznesowy
+# Mateusz Obuchowicz
+![Mateusz Obuchowicz](https://obuchowicz.pl/mateusz-obuchowicz.jpg)
+## Konsultant Biznesowy
+### O mnie
+- Mam na imię Mat - https://mat.pl
+- Interesuje mnie: WebDev, Analiza, Szkolenia, Microsoft Excel, SEO, SEM, GMB, Branding oraz nowe technologie
+- Lubię :heart: :womens: :dog: :horse: :sheep: :full_moon:
+- :email: Informacje kontaktowe: https://obuchowicz.pl
+
+#### Profesjonalne Doradztwo i Szkolenia Excel
 
 <!---
 obuchowicz/obuchowicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
