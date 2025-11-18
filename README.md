@@ -2,7 +2,7 @@
 ![Mateusz Obuchowicz](https://obuchowicz.pl/mateusz-obuchowicz.jpg)
 ## Konsultant Biznesowy
 ### O mnie
-- Mam na imię Mat - https://mat.pl
+- Mam na imię Mat
 - Interesuje mnie: WebDev, Analiza, Szkolenia, Microsoft Excel, SEO, SEM, GMB, Branding oraz nowe technologie
 - :heart: :womens: :dog: :horse: :sheep: :full_moon:
 - :email: Informacje kontaktowe: https://obuchowicz.pl
