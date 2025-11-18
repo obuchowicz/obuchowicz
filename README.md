@@ -3,7 +3,7 @@
 ## Profesjonalne Zarządzanie
 ### O mnie
 - Mam na imię Mat
-- Interesuje mnie: WebDev, Analiza, Szkolenia, Microsoft Excel, SEO, SEM, GMB, Branding oraz nowe technologie
+- Interesuje mnie: AI, Analiza, Szkolenia, Microsoft Excel, SEO, SEM, GMB, Branding oraz nowe technologie
 - :heart: :womens: :dog: :horse: :sheep: :full_moon:
 - :email: Informacje kontaktowe: https://obuchowicz.pl
 
