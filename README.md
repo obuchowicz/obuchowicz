@@ -7,7 +7,7 @@
 - :heart: :womens: :dog: :horse: :sheep: :full_moon:
 - :email: Informacje kontaktowe: https://obuchowicz.pl
 
-#### Profesjonalne Doradztwo i Szkolenia Excel
+#### Profesjonalne Zarządzanie
 
 <!---
 obuchowicz/obuchowicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
